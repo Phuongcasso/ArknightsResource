@@ -1,8 +1,5 @@
 # audio files
-audio
 # raws
-raw
 recruit
-avgs/npcs/*
 # mess
 *.db
